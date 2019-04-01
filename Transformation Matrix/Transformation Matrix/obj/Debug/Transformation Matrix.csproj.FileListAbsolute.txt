@@ -1,0 +1,7 @@
+C:\Users\Lachlan\source\repos\Transformation Matrix\Transformation Matrix\obj\Debug\Transformation Matrix.csprojAssemblyReference.cache
+C:\Users\Lachlan\source\repos\Transformation Matrix\Transformation Matrix\obj\Debug\Transformation Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan\source\repos\Transformation Matrix\Transformation Matrix\bin\Debug\Transformation Matrix.exe.config
+C:\Users\Lachlan\source\repos\Transformation Matrix\Transformation Matrix\bin\Debug\Transformation Matrix.exe
+C:\Users\Lachlan\source\repos\Transformation Matrix\Transformation Matrix\bin\Debug\Transformation Matrix.pdb
+C:\Users\Lachlan\source\repos\Transformation Matrix\Transformation Matrix\obj\Debug\Transformation Matrix.exe
+C:\Users\Lachlan\source\repos\Transformation Matrix\Transformation Matrix\obj\Debug\Transformation Matrix.pdb
